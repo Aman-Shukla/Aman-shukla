@@ -28,7 +28,6 @@
 
 ![Activity](https://activity-graph.herokuapp.com/graph?username=Aman-shukla&theme=xcode)
 
-|<img src="https://github-readme-stats.vercel.app/api?username=hardikk2002&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikk2002"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=hardikk2002&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-shukla"/>|
 |---|---|
 
-⭐️ From [Hardik](https://github.com/Aman-shukla)

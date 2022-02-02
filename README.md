@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm Aman Shukla</h1>
 <h3 align="center">A passionate Full-Stack Developer and Competitive Programmer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hardikk2002&label=Profile%20views&color=0e75b6&style=flat" alt="a" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aman-shukla&label=Profile%20views&color=0e75b6&style=flat" alt="a" /> </p>
 <hr>
 </br>
 
@@ -16,7 +16,7 @@
 - Backend development using **Nodejs**
 - Functional programming with **JavaScript**
 - Robust **full-stack Developer**
-- Solving Data structure and algorithm questions in **C++
+- Solving Data structure and algorithm questions in **C++**
 
 ## ⭐️ Hello World!! 
 - 💬 Ask me about anything and everything !! 
@@ -28,6 +28,6 @@
 
 ![Activity](https://activity-graph.herokuapp.com/graph?username=Aman-shukla&theme=xcode)
 
-|<img src="https://github-readme-stats.vercel.app/api?username=hardikk2002&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-shukla"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=Aman-shukla&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-shukla"/>|
 |---|---|
 

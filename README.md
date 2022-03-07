@@ -13,9 +13,7 @@
 ## ⚡ Technologies
 
 - Front-end development using **React.js**
-- Backend development using **Nodejs**
 - Functional programming with **JavaScript**
-- Robust **full-stack Developer**
 - Solving Data structure and algorithm questions in **C++**
 
 ## ⭐️ Hello World!! 

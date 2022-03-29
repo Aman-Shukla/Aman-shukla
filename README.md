@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm Aman Shukla</h1>
-<h3 align="center">A passionate Full-Stack Developer and Competitive Programmer</h3>
+<h3 align="center">A passionate Front-end Developer </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Aman-shukla&label=Profile%20views&color=0e75b6&style=flat" alt="a" /> </p>
 <hr>
 </br>
